@@ -16,7 +16,7 @@ I'm a full-stack developer from Sweden who enjoys building clean, scalable, and 
   Designed and built a document generation and distribution system for one of the largest banks in the Nordics — took full technical ownership as track lead at the end of the project.
 
 - **Freelance Work:**  
-  I also take on freelance projects, building custom websites and applications. [See my services on my portfolio.](https:/simonjern.com)
+  I also take on freelance projects, building custom websites and applications. [See my services on my portfolio.](https://simonjern.com/?freelance)
 
 ---
 
@@ -62,4 +62,4 @@ REST APIs, Cloud Architecture, Full-stack Development
 ---
 
 **Let’s connect!**  
-If you have an interesting project or opportunity—or just want to talk tech—reach out via [LinkedIn](https://www.linkedin.com/in/simon-jern/) or [my website](https:/simonjern.com).
+If you have an interesting project or opportunity—or just want to talk tech—reach out via [LinkedIn](https://www.linkedin.com/in/simon-jern/) or [my portfolio](https:/simonjern.com).
